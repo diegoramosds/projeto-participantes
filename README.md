@@ -2,6 +2,7 @@ Este projeto é uma lista de participantes de um evento, desenvolvida em React. 
 
 Recursos Utilizados:<br>
 TypeScript:<br>
+JavaScript:<br>
 React:<br>
 Lucide React:.<br>
 Day.js:<br>
