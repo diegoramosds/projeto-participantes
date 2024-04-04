@@ -20,5 +20,8 @@ Aguarde até que a aplicação seja compilada e o servidor esteja pronto para re
 Abra seu navegador e navegue até o URL onde a aplicação está sendo executada).<br>
 
 
-https://github.com/diegoramosds/projeto-participantes/assets/140274064/e5edd562-a45f-42fa-af84-342db8e7cacb
+
+https://github.com/diegoramosds/projeto-participantes/assets/140274064/5dcf8c24-da5e-46a0-b17f-e0224c66700f
+
+
 
