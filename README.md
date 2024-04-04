@@ -2,10 +2,10 @@ Este projeto é uma lista de participantes de um evento, desenvolvida em React. 
 
 Recursos Utilizados:<br>
 TypeScript:<br>
-React: Uma biblioteca JavaScript para criar interfaces de usuário.<br>
-Lucide React: Uma biblioteca de ícones SVG para React.<br>
-Day.js: Uma biblioteca de manipulação de datas leve e flexível.<br>
-Vite: Um construtor de aplicações JavaScript rápido e moderno.<br>
+React:<br>
+Lucide React:.<br>
+Day.js:<br>
+Vite:<br>
 
 Para executar a API e a aplicação após instalar as dependências com npm install, siga estas etapas:<br>
 API:
